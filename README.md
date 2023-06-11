@@ -7,45 +7,51 @@ GS25 Management App은 GS25 근무자의 편의성을 위한 애플리케이션�
 <p align="center">
   <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/405871f4-04b4-45d4-b431-1b0c2eac87a4">
 </p>
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/c41987e1-4367-45e5-9164-4f7a61dfdb40">
+</p>
 - 로그인 기능: 사용자가 계정으로 로그인하여 애플리케이션에 접근할 수 있습니다.
-- <p align="center">
+<p align="center">
   <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/8f8afbe3-3476-4fa5-988d-bea2eee749b8">
 </p>
 - 회원가입 기능: 새로운 사용자를 등록하고 애플리케이션에 회원으로 추가합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/fec18324-f498-486a-a9bd-b3aee08bf526">
 </p>
 - 근무사항 기능: 근무자의 근무 일정을 확인하고 관리할 수 있습니다.
 - <p align="center">
-  <img src="이미지URL">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/9a96cdf6-1113-485a-aa9e-a344d0f10fab">
 </p>
 - 전달사항 기능: 매장 내부에서 직원들끼리 전달해야 할 메시지를 작성하고 확인할 수 있습니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/55e7d32d-5966-475f-a11f-10eaf05fac26">
 </p>
 - 근무자 스케줄 기능: 근무자의 스케줄을 생성하고 관리합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/8f13515d-f163-418a-adf8-2ee0a903b031">
 </p>
 - 행사 상품 확인 기능: 행사 중인 상품들을 확인하고 관리합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/01fd893c-6470-41fe-8a87-f599b07931b3">
 </p>
 - 유통기한 체크 기능: 상품의 유통기한을 체크할 수 있으며 필터와 검색을 통해 상품의 유통기한을 조회할 수 있으며 추가도 가능합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/6557d55d-5b6c-4bf8-9c9f-d9b9c9229961">
 </p>
 - 급여 계산기 기능:  근무자의 근무 타입에 따라 자동으로 급여를 계산합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/33e83316-657b-425e-9614-c57fd1a7938a">
+</p>
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/5e54f168-f863-48c1-ae2c-e90c939ff773">
 </p>
 - 근무자 정보 관리 기능: 근무자의 개인 정보를 확인하고 수정이 가능합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/496296f9-5376-4177-9028-335b02f98d78">
 </p>
 - POS기 기능: 상품 판매, 결제, 판매내역 조회 등의 기능을 제공하는 POS 시스템을 포함합니다.
-- <p align="center">
-  <img src="이미지URL">
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/296ef9a9-3b9f-47c2-ad93-0262df88a9c8">
 </p>
 
 ## 사용 기술 및 도구
