@@ -4,17 +4,49 @@
 GS25 Management App은 GS25 근무자의 편의성을 위한 애플리케이션입니다. 이 앱은 C# WinForms를 사용하여 구현되었으며, 매장 운영에 필요한 다양한 기능을 제공합니다.
 
 ## 주요 기능
-
+<p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/405871f4-04b4-45d4-b431-1b0c2eac87a4">
+</p>
 - 로그인 기능: 사용자가 계정으로 로그인하여 애플리케이션에 접근할 수 있습니다.
+- <p align="center">
+  <img src="https://github.com/ks2019975070/GS25ManagementApp/assets/48702307/8f8afbe3-3476-4fa5-988d-bea2eee749b8">
+</p>
 - 회원가입 기능: 새로운 사용자를 등록하고 애플리케이션에 회원으로 추가합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 근무사항 기능: 근무자의 근무 일정을 확인하고 관리할 수 있습니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 전달사항 기능: 매장 내부에서 직원들끼리 전달해야 할 메시지를 작성하고 확인할 수 있습니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 근무자 스케줄 기능: 근무자의 스케줄을 생성하고 관리합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 행사 상품 확인 기능: 행사 중인 상품들을 확인하고 관리합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 유통기한 체크 기능: 상품의 유통기한을 체크할 수 있으며 필터와 검색을 통해 상품의 유통기한을 조회할 수 있으며 추가도 가능합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 급여 계산기 기능:  근무자의 근무 타입에 따라 자동으로 급여를 계산합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - 근무자 정보 관리 기능: 근무자의 개인 정보를 확인하고 수정이 가능합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 - POS기 기능: 상품 판매, 결제, 판매내역 조회 등의 기능을 제공하는 POS 시스템을 포함합니다.
+- <p align="center">
+  <img src="이미지URL">
+</p>
 
 ## 사용 기술 및 도구
 
