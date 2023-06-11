@@ -38,4 +38,4 @@ GS25 Management App은 GS25 근무자의 편의성을 위한 애플리케이션�
 
 - 이름: 한재훈
 - 이메일: hjh7708@gmail.com
-- GitHub: [GitHub 프로필 링크]
+- GitHub: [[GitHub 프로필 링크]](https://github.com/ks2019975070)
